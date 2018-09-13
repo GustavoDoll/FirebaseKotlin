@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "660649652786",
+    "firebase_url": "https://nacbarganha.firebaseio.com",
+    "project_id": "nacbarganha",
+    "storage_bucket": "nacbarganha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660649652786:android:1569599090aa6736",
+        "android_client_info": {
+          "package_name": "com.doll.gustavo.firebaseexercice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660649652786-31kd8hgslgichbt9a3ej6oomi0dqnahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJn4d_rp7AVnNcDQt24IfG1TwfWNjfz-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660649652786:android:273af3cca72dcdc7",
+        "android_client_info": {
+          "package_name": "com.doll.gustavo.nac1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660649652786-31kd8hgslgichbt9a3ej6oomi0dqnahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJn4d_rp7AVnNcDQt24IfG1TwfWNjfz-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
